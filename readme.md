@@ -19,4 +19,5 @@ Ramas:
 - git checkout
 - git merge
 
-El lunes empezamos JS
+  - Fast-forward
+  - ort / recusive
