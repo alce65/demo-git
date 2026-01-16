@@ -11,3 +11,9 @@ Comandos:
 - git clone
 - git push
 - git pull
+
+Ramas:
+
+- git branch
+- git checkout
+- git merge
